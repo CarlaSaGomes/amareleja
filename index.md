@@ -4,4 +4,4 @@
 
 Devem clicar no link abaixo para aceder ao questionário:
 
-<a href="https://forms.gle/oUaz1wDAU7vntpQYA">Questionário</a>
+<a href="https://forms.gle/oUaz1wDAU7vntpQYA" target="_blank" rel="noopener noreferrer">Questionário</a>
