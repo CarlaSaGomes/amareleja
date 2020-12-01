@@ -4,4 +4,4 @@
 
 Devem clicar no link abaixo para aceder aos exercícios:
 
-<a href="https://carlasagomes.github.io/Amareleja/cavaleiro-dinamarca.htm" target="_blank" rel="noopener noreferrer">Questionário</a>
+<a href="https://carlasagomes.github.io/Amareleja/cavaleiro-dinamarca.htm" target="_blank" rel="noopener noreferrer"><b>Exercícios</b></a>
