@@ -3,10 +3,10 @@
 ## 13 de janeiro de 2021
 ## Compreensão oral e exercícios de gramática.
 
-https://forms.gle/KXGQ7RrKaZBFRrS88
+<a href="https://forms.gle/KXGQ7RrKaZBFRrS88" target="_blank" rel="noopener noreferrer"><b>Exercícios</b></a>
 
-
-
+.
+.
 
 ## O Cavaleiro da Dinamarca
 
