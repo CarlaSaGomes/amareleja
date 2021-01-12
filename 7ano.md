@@ -1,6 +1,14 @@
 ## 7.º Ano
 
-## 7.º Ano - O Cavaleiro da Dinamarca
+## 13 de janeiro de 2021
+## Compreensão oral e exercícios de gramática.
+
+https://forms.gle/KXGQ7RrKaZBFRrS88
+
+
+
+
+## O Cavaleiro da Dinamarca
 
 Devem clicar no link abaixo para aceder aos exercícios:
 
